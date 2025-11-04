@@ -1,0 +1,9 @@
+Food odering Management System:
+
+
+
+For Admin Login:
+email:	
+admin@gmail.com
+Password:
+112233
